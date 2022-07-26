@@ -1,15 +1,11 @@
-:root {
-
-}
-
 * {
-
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-body {
 
+:root {
+ background-color: antiquewhite;
+ color: purple;
+ text-align: center;   
 }
 
-header {
-    color: blue;
-}
