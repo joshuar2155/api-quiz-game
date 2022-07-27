@@ -12,10 +12,7 @@ This project is to utilize javascript to create a quiz game.
 ## Usage
 
 This project can be used not only as a small study tool but as a demonstration of diffent js techniques.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-
+!
     ![This is a screenshot of the website](assets/images/website2.png)
     
 
