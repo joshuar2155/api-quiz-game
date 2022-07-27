@@ -5,7 +5,6 @@ var firstanswers = ['Hyper Mega Language', 'Centered Simple Styles', '<Script>',
 var secondanswers = ['Hypertext Markup Language', 'Creative Style Sheets', '<Head>', 'javaQuery'];
 var thirdanswers = ['Holy Moly Language', 'Cascading Super Sheets', '<meta>', 'Youtube'];
 var fourthanswers = ['Hyper Mechanics Language', 'Cascading Style Sheets', '<button>', 'jQuery'];
-
 var correctAnswers = ['.answer2', '.answer4', '.answer1', '.answer4'];
 var questionNumber = 0;
 

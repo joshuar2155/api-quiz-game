@@ -10,3 +10,17 @@
  font-size: larger;
 }
 
+.question {
+    color: red;
+    font-weight: bolder;
+    margin: 3%;
+}
+
+header {
+    margin-top: 3%;
+}
+
+#timer {
+    color:orange;
+    margin-top: 3%;
+}
