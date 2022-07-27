@@ -70,7 +70,7 @@ function navigate(next) {
     four.textContent = fourthanswers[questionNumber];
 };
 
-//Clicking and selecting answers
+//Clicking and Selecting right or wrong answers
 
 answers.addEventListener('click', function(event) {
     var element = event.target;
